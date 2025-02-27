@@ -22,4 +22,4 @@ RUN poetry install --no-cache
 
 
 # Run the application.
-# CMD poetry run python 
+CMD poetry run passion
